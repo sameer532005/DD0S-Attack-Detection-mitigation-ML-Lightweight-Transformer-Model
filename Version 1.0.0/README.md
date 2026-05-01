@@ -1,6 +1,7 @@
 # SDN DDoS Detection and Mitigation with Ryu, Mininet, and Random Forest
 
 This project demonstrates a simple end-to-end SDN security pipeline:
+https://chatgpt.com/share/69ee5bbc-906c-8322-be4b-ef571fa02e55
 
 `Mininet Network -> Ryu Controller -> Flow Statistics -> CSV Dataset -> Random Forest -> Detection -> OpenFlow Mitigation`
 
